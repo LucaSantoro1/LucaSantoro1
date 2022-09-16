@@ -1,15 +1,31 @@
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" width="200"/>
 </div>
 
 
 
 
-Hi there 👋 I’m Luca. Welcome to my GitHub profile, glad to see you here!
+# Hi there, I’m Luca 👋 
+#### Welcome to my GitHub profile, glad to see you here!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+-----
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
+------
+<div>
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" alt="React" width="40" height="40"/>&nbsp;
+ 
 </div>
 
 
