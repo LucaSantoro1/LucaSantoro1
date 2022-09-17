@@ -8,7 +8,7 @@
 
 
 <div id="badges">
- <a href="https://mail.google.com/mail/u/0/?zx=63fbtt5ke4uv#inbox">
+ <a href="https://luca.santoro.studio@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
  </a>
 </div>
